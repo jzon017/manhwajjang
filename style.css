@@ -1,0 +1,14 @@
+html,
+body{
+    background-color: #383B3C;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 1rem;
+}
+ 
+.sidebar {
+    background-color: #383B3C;
+}
+
+p {
+    color: #D37900;
+}
